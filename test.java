@@ -19,7 +19,7 @@ public class test {
         System.out.println("Hello World, say something :");
 
         String test = Ascanner.nextLine();
-        System.out.println(test + " Fuck You");
+        System.out.println(test + " hello user, this is another print");
         Ascanner.close();
     }
 }
